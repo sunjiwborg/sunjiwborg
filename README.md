@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm an indie dev and also university student. <br>I like building cool but meaningful things.<br>Currently working on OCR model project.<br><br>
+I'm an indie dev and also university student. <br>I like building cool but meaningful things.<br>Currently working on an OCR model project.<br><br>
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sunjiwborgayary@gmail.com) 
